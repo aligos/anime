@@ -1,0 +1,14 @@
+{
+  "name": "fontline",
+  "homepage": "https://github.com/aligos/fontline",
+  "_release": "73fa26c0ab",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "73fa26c0ab7153af53c4d5337131ce87efb103f7"
+  },
+  "_source": "https://github.com/aligos/fontline.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/aligos/fontline.git",
+  "_direct": true
+}
